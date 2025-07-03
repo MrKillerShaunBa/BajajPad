@@ -1,6 +1,6 @@
 # BajajPad
 ![image](/assets/no_bg.png)
-A handy macropad with a rotary encoder and an OLED display. This is created for the Hack Club HackPad V3 YSWS and this is my first time doin 3D modelling and making a PCB.
+A handy macropad with a rotary encoder and an OLED display. This is created for the Hack Club HackPad V3 YSWS.
 
 ### Inspiration
 
